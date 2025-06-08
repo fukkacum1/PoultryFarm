@@ -1,0 +1,149 @@
+2025-05-31 at 23:38 | INFO | 5
+2025-05-31 at 23:38 | INFO | 3
+2025-05-31 at 23:38 | INFO | 6
+2025-05-31 at 23:38 | INFO | 4
+2025-05-31 at 23:38 | INFO | 5
+2025-05-31 at 23:38 | INFO | 1
+2025-05-31 at 23:38 | INFO | 2
+2025-05-31 at 23:38 | INFO | 3
+2025-05-31 at 23:39 | INFO | Количество яиц у птицы с id=1: 5
+2025-05-31 at 23:39 | INFO | Количество яиц у птицы с id=2: 3
+2025-05-31 at 23:39 | INFO | Количество яиц у птицы с id=3: 6
+2025-05-31 at 23:39 | INFO | Количество яиц у птицы с id=4: 4
+2025-05-31 at 23:39 | INFO | Количество яиц у птицы с id=5: 5
+2025-05-31 at 23:39 | INFO | Количество яиц у птицы с id=6: 1
+2025-05-31 at 23:39 | INFO | Количество яиц у птицы с id=7: 2
+2025-05-31 at 23:39 | INFO | Количество яиц у птицы с id=8: 3
+2025-05-31 at 23:39 | INFO | Количество яиц у птицы с id=1: 5
+2025-05-31 at 23:39 | INFO | Количество яиц у птицы с id=2: 3
+2025-05-31 at 23:39 | INFO | Количество яиц у птицы с id=3: 6
+2025-05-31 at 23:39 | INFO | Количество яиц у птицы с id=4: 4
+2025-05-31 at 23:39 | INFO | Количество яиц у птицы с id=5: 5
+2025-05-31 at 23:39 | INFO | Количество яиц у птицы с id=6: 1
+2025-05-31 at 23:39 | INFO | Количество яиц у птицы с id=7: 2
+2025-05-31 at 23:39 | INFO | Количество яиц у птицы с id=8: 3
+2025-05-31 at 23:44 | INFO | Количество яиц у птицы с id=1: 29
+2025-05-31 at 23:44 | INFO | Количество яиц у птицы с id=2: 29
+2025-05-31 at 23:44 | INFO | Количество яиц у птицы с id=3: 29
+2025-05-31 at 23:44 | INFO | Количество яиц у птицы с id=4: 29
+2025-05-31 at 23:44 | INFO | Количество яиц у птицы с id=5: 29
+2025-05-31 at 23:44 | INFO | Количество яиц у птицы с id=6: 29
+2025-05-31 at 23:44 | INFO | Количество яиц у птицы с id=7: 29
+2025-05-31 at 23:44 | INFO | Количество яиц у птицы с id=8: 29
+2025-06-01 at 15:02 | INFO | Птица id=1, cell_id=1, сумма яиц за 30 дней: 5
+2025-06-01 at 15:02 | INFO | Птица id=2, cell_id=2, сумма яиц за 30 дней: 3
+2025-06-01 at 15:02 | INFO | Птица id=3, cell_id=3, сумма яиц за 30 дней: 6
+2025-06-01 at 15:02 | INFO | Птица id=4, cell_id=4, сумма яиц за 30 дней: 4
+2025-06-01 at 15:02 | INFO | Птица id=5, cell_id=5, сумма яиц за 30 дней: 5
+2025-06-01 at 15:02 | INFO | Птица id=6, cell_id=6, сумма яиц за 30 дней: 1
+2025-06-01 at 15:02 | INFO | Птица id=7, cell_id=7, сумма яиц за 30 дней: 2
+2025-06-01 at 15:02 | INFO | Птица id=8, cell_id=8, сумма яиц за 30 дней: 3
+2025-06-01 at 15:05 | INFO | Птица id=1, cell_number=1, сумма яиц за 30 дней: 5
+2025-06-01 at 15:05 | INFO | Птица id=2, cell_number=2, сумма яиц за 30 дней: 3
+2025-06-01 at 15:05 | INFO | Птица id=3, cell_number=3, сумма яиц за 30 дней: 6
+2025-06-01 at 15:05 | INFO | Птица id=4, cell_number=4, сумма яиц за 30 дней: 4
+2025-06-01 at 15:05 | INFO | Птица id=5, cell_number=5, сумма яиц за 30 дней: 5
+2025-06-01 at 15:05 | INFO | Птица id=6, cell_number=6, сумма яиц за 30 дней: 6
+2025-06-01 at 15:05 | INFO | Птица id=7, cell_number=7, сумма яиц за 30 дней: 2
+2025-06-01 at 15:05 | INFO | Птица id=8, cell_number=8, сумма яиц за 30 дней: 3
+2025-06-01 at 15:08 | INFO | Птица id=1, cell_number=1, сумма яиц за 30 дней: 5
+2025-06-01 at 15:08 | INFO | Птица id=2, cell_number=2, сумма яиц за 30 дней: 13
+2025-06-01 at 15:08 | INFO | Птица id=3, cell_number=3, сумма яиц за 30 дней: 6
+2025-06-01 at 15:08 | INFO | Птица id=4, cell_number=4, сумма яиц за 30 дней: 4
+2025-06-01 at 15:08 | INFO | Птица id=5, cell_number=5, сумма яиц за 30 дней: 5
+2025-06-01 at 15:08 | INFO | Птица id=7, cell_number=7, сумма яиц за 30 дней: 2
+2025-06-01 at 15:08 | INFO | Птица id=8, cell_number=8, сумма яиц за 30 дней: 3
+2025-06-01 at 15:08 | INFO | Птица id=6, cell_number=6, сумма яиц за 30 дней: 6
+2025-06-02 at 00:56 | INFO | Запрос птиц с яйценоскостью ниже средней за период с 2025-05-03 по 2025-06-02
+2025-06-02 at 00:57 | INFO | Запрос птиц с яйценоскостью ниже средней за период с 2025-05-03 по 2025-06-02
+2025-06-02 at 00:57 | INFO | Средняя яйценоскость по фабрике за период: 3.6250000000000000
+2025-06-02 at 00:57 | INFO | Найдено птиц с яйценоскостью ниже средней: 4
+2025-06-02 at 00:58 | INFO | Начинаем обновление яйценоскости за последние 30 дней с 2025-05-03 по 2025-06-02
+2025-06-02 at 00:58 | INFO | Найдено птиц для обработки: 8
+2025-06-02 at 00:58 | INFO | Обновление яйценоскости завершено и изменения сохранены в БД
+2025-06-02 at 00:58 | INFO | Запрос птиц с яйценоскостью ниже средней за период с 2025-05-03 по 2025-06-02
+2025-06-02 at 00:58 | INFO | Средняя яйценоскость по фабрике за период: 3.6250000000000000
+2025-06-02 at 00:58 | INFO | Найдено птиц с яйценоскостью ниже средней: 4
+2025-06-02 at 00:58 | INFO | Начинаем обновление яйценоскости за последние 30 дней с 2025-05-03 по 2025-06-02
+2025-06-02 at 00:58 | INFO | Найдено птиц для обработки: 8
+2025-06-02 at 00:58 | INFO | Обновление яйценоскости завершено и изменения сохранены в БД
+2025-06-02 at 00:59 | INFO | Запрос птиц с яйценоскостью ниже средней за период с 2025-05-03 по 2025-06-02
+2025-06-02 at 00:59 | INFO | Средняя яйценоскость по фабрике за период: 3.6250000000000000
+2025-06-02 at 00:59 | INFO | Найдено птиц с яйценоскостью ниже средней: 4
+2025-06-02 at 01:07 | INFO | Запрос птиц с яйценоскостью ниже средней за период с 2025-05-03 по 2025-06-02
+2025-06-02 at 01:07 | INFO | Средняя яйценоскость по фабрике за период: 3.6250000000000000
+2025-06-02 at 01:07 | INFO | Найдено птиц с яйценоскостью ниже средней: 4
+2025-06-02 at 01:11 | INFO | Запрос птиц с яйценоскостью ниже средней за период с 2025-05-03 по 2025-06-02
+2025-06-02 at 01:11 | INFO | Средняя яйценоскость по фабрике за период: 5.5000000000000000
+2025-06-02 at 01:11 | INFO | Найдено птиц с яйценоскостью ниже средней: 5
+2025-06-02 at 22:15 | INFO | Начинаем поиск птицы с максимальным количеством яиц в клетке
+2025-06-02 at 22:22 | INFO | Начинаем поиск птицы с максимальным количеством яиц в клетке
+2025-06-02 at 22:22 | INFO | Птица с максимальным количеством яиц: id=3, яйца=6, номер клетки=3
+2025-06-02 at 22:23 | INFO | Начинаем поиск птицы с максимальным количеством яиц в клетке
+2025-06-02 at 22:23 | INFO | Птица с максимальным количеством яиц: id=3, яйца=6, номер клетки=3
+2025-06-02 at 22:23 | INFO | Начинаем поиск птицы с максимальным количеством яиц в клетке
+2025-06-02 at 22:23 | INFO | Птица с максимальным количеством яиц: id=3, яйца=6, номер клетки=3
+2025-06-03 at 22:57 | INFO | Начинаем обновление яйценоскости за последние 30 дней с 2025-05-04 по 2025-06-03
+2025-06-03 at 22:57 | INFO | Найдено птиц для обработки: 8
+2025-06-03 at 22:57 | INFO | Обновление яйценоскости завершено и изменения сохранены в БД
+2025-06-03 at 23:04 | INFO | Начинаем поиск птицы с максимальным количеством яиц в клетке
+2025-06-03 at 23:04 | INFO | Птица с максимальным количеством яиц: id=3, яйца=6, номер клетки=3
+2025-06-03 at 23:05 | INFO | Начинаем поиск птицы с максимальным количеством яиц у птицы
+2025-06-03 at 23:08 | INFO | Начинаем поиск птицы с максимальным количеством яиц у птицы
+2025-06-03 at 23:08 | INFO | Начинаем поиск птицы с максимальным количеством яиц у птицы
+2025-06-03 at 23:09 | INFO | Птица с максимальным количеством яиц: id=3, яйца=6, номер клетки=3
+2025-06-03 at 23:09 | INFO | Начинаем поиск птицы с максимальным количеством яиц у птицы
+2025-06-03 at 23:09 | INFO | Птица с максимальным количеством яиц: id=3, яйца=6, номер клетки=3
+2025-06-03 at 23:13 | INFO | Начинаем поиск птицы с максимальным количеством яиц у птицы
+2025-06-03 at 23:13 | INFO | Птица с максимальным количеством яиц: id=2, яйца=10, номер клетки=2
+2025-06-03 at 23:38 | INFO | Добавление записи Bird с параметрами: {'cell_id': 0, 'weight': Decimal('0'), 'age': 0, 'type_of_bird': 'string', 'egg_laying_rate': Decimal('0')}
+2025-06-03 at 23:38 | INFO | Запись Bird успешно добавлена.
+2025-06-03 at 23:38 | ERROR | Ошибка при добавлении записи: (sqlalchemy.dialects.postgresql.asyncpg.IntegrityError) <class 'asyncpg.exceptions.UniqueViolationError'>: duplicate key value violates unique constraint "birds_pkey"
+DETAIL:  Key (id)=(8) already exists.
+[SQL: INSERT INTO birds (cell_id, weight, age, type_of_bird, egg_laying_rate) VALUES ($1::INTEGER, $2::NUMERIC(10, 3), $3::INTEGER, $4::VARCHAR, $5::NUMERIC(10, 3)) RETURNING birds.id, birds.created_at, birds.updated_at]
+[parameters: (0, Decimal('0'), 0, 'string', Decimal('0'))]
+(Background on this error at: https://sqlalche.me/e/20/gkpj)
+2025-06-03 at 23:38 | ERROR | Ошибка при добавлении курицы: (sqlalchemy.dialects.postgresql.asyncpg.IntegrityError) <class 'asyncpg.exceptions.UniqueViolationError'>: duplicate key value violates unique constraint "birds_pkey"
+DETAIL:  Key (id)=(8) already exists.
+[SQL: INSERT INTO birds (cell_id, weight, age, type_of_bird, egg_laying_rate) VALUES ($1::INTEGER, $2::NUMERIC(10, 3), $3::INTEGER, $4::VARCHAR, $5::NUMERIC(10, 3)) RETURNING birds.id, birds.created_at, birds.updated_at]
+[parameters: (0, Decimal('0'), 0, 'string', Decimal('0'))]
+(Background on this error at: https://sqlalche.me/e/20/gkpj)
+2025-06-03 at 23:45 | ERROR | Ошибка при добавлении курицы: (sqlalchemy.dialects.postgresql.asyncpg.IntegrityError) <class 'asyncpg.exceptions.ForeignKeyViolationError'>: insert or update on table "birds" violates foreign key constraint "birds_cell_id_fkey"
+DETAIL:  Key (cell_id)=(0) is not present in table "cells".
+[SQL: INSERT INTO birds (cell_id, weight, age, type_of_bird, egg_laying_rate) VALUES ($1::INTEGER, $2::NUMERIC(10, 3), $3::INTEGER, $4::VARCHAR, $5::NUMERIC(10, 3)) RETURNING birds.id]
+[parameters: (0, Decimal('0'), 0, 'string', Decimal('0'))]
+(Background on this error at: https://sqlalche.me/e/20/gkpj)
+2025-06-03 at 23:45 | ERROR | Ошибка при добавлении курицы: 500: Не удалось получить идентификатор курицы
+2025-06-03 at 23:46 | ERROR | Ошибка при добавлении курицы: (sqlalchemy.dialects.postgresql.asyncpg.IntegrityError) <class 'asyncpg.exceptions.ForeignKeyViolationError'>: insert or update on table "birds" violates foreign key constraint "birds_cell_id_fkey"
+DETAIL:  Key (cell_id)=(0) is not present in table "cells".
+[SQL: INSERT INTO birds (cell_id, weight, age, type_of_bird, egg_laying_rate) VALUES ($1::INTEGER, $2::NUMERIC(10, 3), $3::INTEGER, $4::VARCHAR, $5::NUMERIC(10, 3)) RETURNING birds.id]
+[parameters: (0, Decimal('0'), 0, 'string', Decimal('0'))]
+(Background on this error at: https://sqlalche.me/e/20/gkpj)
+2025-06-03 at 23:46 | ERROR | Ошибка при добавлении курицы: 500: Не удалось получить идентификатор курицы
+2025-06-04 at 12:42 | INFO | Добавление записи Bird с параметрами: {'cell_id': 0, 'weight': Decimal('0'), 'age': 0, 'type_of_bird': 'string', 'egg_laying_rate': Decimal('0')}
+2025-06-04 at 12:42 | INFO | Запись Bird успешно добавлена.
+2025-06-04 at 12:42 | ERROR | Ошибка при добавлении записи: (sqlalchemy.dialects.postgresql.asyncpg.IntegrityError) <class 'asyncpg.exceptions.ForeignKeyViolationError'>: insert or update on table "birds" violates foreign key constraint "birds_cell_id_fkey"
+DETAIL:  Key (cell_id)=(0) is not present in table "cells".
+[SQL: INSERT INTO birds (cell_id, weight, age, type_of_bird, egg_laying_rate) VALUES ($1::INTEGER, $2::NUMERIC(10, 3), $3::INTEGER, $4::VARCHAR, $5::NUMERIC(10, 3)) RETURNING birds.id, birds.created_at, birds.updated_at]
+[parameters: (0, Decimal('0'), 0, 'string', Decimal('0'))]
+(Background on this error at: https://sqlalche.me/e/20/gkpj)
+2025-06-04 at 12:42 | ERROR | Ошибка при добавлении курицы: (sqlalchemy.dialects.postgresql.asyncpg.IntegrityError) <class 'asyncpg.exceptions.ForeignKeyViolationError'>: insert or update on table "birds" violates foreign key constraint "birds_cell_id_fkey"
+DETAIL:  Key (cell_id)=(0) is not present in table "cells".
+[SQL: INSERT INTO birds (cell_id, weight, age, type_of_bird, egg_laying_rate) VALUES ($1::INTEGER, $2::NUMERIC(10, 3), $3::INTEGER, $4::VARCHAR, $5::NUMERIC(10, 3)) RETURNING birds.id, birds.created_at, birds.updated_at]
+[parameters: (0, Decimal('0'), 0, 'string', Decimal('0'))]
+(Background on this error at: https://sqlalche.me/e/20/gkpj)
+2025-06-04 at 12:42 | INFO | Добавление записи Bird с параметрами: {'cell_id': 0, 'weight': Decimal('0'), 'age': 0, 'type_of_bird': 'string', 'egg_laying_rate': Decimal('0')}
+2025-06-04 at 12:42 | INFO | Запись Bird успешно добавлена.
+2025-06-04 at 12:42 | ERROR | Ошибка при добавлении записи: (sqlalchemy.dialects.postgresql.asyncpg.IntegrityError) <class 'asyncpg.exceptions.ForeignKeyViolationError'>: insert or update on table "birds" violates foreign key constraint "birds_cell_id_fkey"
+DETAIL:  Key (cell_id)=(0) is not present in table "cells".
+[SQL: INSERT INTO birds (cell_id, weight, age, type_of_bird, egg_laying_rate) VALUES ($1::INTEGER, $2::NUMERIC(10, 3), $3::INTEGER, $4::VARCHAR, $5::NUMERIC(10, 3)) RETURNING birds.id, birds.created_at, birds.updated_at]
+[parameters: (0, Decimal('0'), 0, 'string', Decimal('0'))]
+(Background on this error at: https://sqlalche.me/e/20/gkpj)
+2025-06-04 at 12:42 | ERROR | Ошибка при добавлении курицы: (sqlalchemy.dialects.postgresql.asyncpg.IntegrityError) <class 'asyncpg.exceptions.ForeignKeyViolationError'>: insert or update on table "birds" violates foreign key constraint "birds_cell_id_fkey"
+DETAIL:  Key (cell_id)=(0) is not present in table "cells".
+[SQL: INSERT INTO birds (cell_id, weight, age, type_of_bird, egg_laying_rate) VALUES ($1::INTEGER, $2::NUMERIC(10, 3), $3::INTEGER, $4::VARCHAR, $5::NUMERIC(10, 3)) RETURNING birds.id, birds.created_at, birds.updated_at]
+[parameters: (0, Decimal('0'), 0, 'string', Decimal('0'))]
+(Background on this error at: https://sqlalche.me/e/20/gkpj)
+2025-06-04 at 12:42 | INFO | Добавление записи Bird с параметрами: {'cell_id': 12, 'weight': Decimal('0'), 'age': 0, 'type_of_bird': 'string', 'egg_laying_rate': Decimal('0')}
+2025-06-04 at 12:42 | INFO | Запись Bird успешно добавлена.
+2025-06-04 at 12:42 | INFO | Запись Bird успешно добавлена с ID: 14
